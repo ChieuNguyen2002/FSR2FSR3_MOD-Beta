@@ -1,4 +1,4 @@
-# New installation guide FSR2FSR3 beta made by chieunguyen2002
+# New installation guide FSR2FSR3 beta fix bugs by chieunguyen2002
 THIS MOD CAN USE ALL GPU. WORKING ALL GAMES HAVE DLSS SUPPORTED.
 
 ## Regular FSR2FSR3 installation  
